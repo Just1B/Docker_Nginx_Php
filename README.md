@@ -1,4 +1,10 @@
-# Strart
+# Docker Php Development Environment
+
+You can use apache or nginx as needed.
+
+Conf files are in `apache` or `nginx` dir
+
+Start the stack :
 
     docker-compose up
 
